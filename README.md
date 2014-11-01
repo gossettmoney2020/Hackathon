@@ -17,7 +17,10 @@ Human ATM gives User Cash
 Human ATM get Service Fee
 
 
-USER Steps
+
+
+USER STEPS:
+
 Human ATMs setup that they are open for business
 
 USER looks for Human ATMs nearby via apigee
