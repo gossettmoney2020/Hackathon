@@ -3,7 +3,7 @@ Hackathon
 
 Money 20/20 Hackathon at Aria
 
-Two word Pitch: Uber ATMs
+Three word Pitch: Uber Human ATMs
 
 Elevator pitch:
 
